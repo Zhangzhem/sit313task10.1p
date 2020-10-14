@@ -1,0 +1,26 @@
+.workerRequirement{
+    width: 960px;
+    height: fit-content;
+    margin: 20px auto;
+    font-size: 25px;
+}
+.workerFormGroup{
+    width: auto;
+    height: fit-content;
+    margin-top: 10px;
+    display: flex;
+}
+.workerFormLabel{
+    width: 300px;
+}
+.workerFormInput{
+    width: auto;
+    height: fit-content;
+}
+.workerInput{
+    width: 200px;
+    height: 25px;
+}
+.workerRadioInput{
+    margin-left: 30px;
+}

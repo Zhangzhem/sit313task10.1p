@@ -1,0 +1,28 @@
+.taskDescription{
+    width: 960px;
+    height: fit-content;
+    margin: 20px auto;
+    font-size: 25px;
+}
+.taskFormGroup{
+    width: auto;
+    height: fit-content;
+    margin-top: 10px;
+    display: flex;
+}
+.taskFormTitle{
+    width: 200px;
+    height: fit-content;
+}
+.taskFormInput{
+    width: 400px;
+    height: fit-content;
+}
+.taskInputTitle{
+    width: 400px;
+    height: 25px;
+}
+.taskInputDate{
+    width: 150px;
+    height: 25px;
+}

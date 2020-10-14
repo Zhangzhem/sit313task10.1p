@@ -1,0 +1,11 @@
+.app{
+    width: 960px;
+    height: fit-content;
+    margin: auto;
+}
+.inputSave{
+    float: right;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+}

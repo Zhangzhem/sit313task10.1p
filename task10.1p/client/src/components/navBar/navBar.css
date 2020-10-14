@@ -1,0 +1,7 @@
+.navBar{
+    width: 960px;
+    height: fit-content;
+    margin: 20px auto;
+    font-size: 30px;
+    background-color: aliceblue;
+}

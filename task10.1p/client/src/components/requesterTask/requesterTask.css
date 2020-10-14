@@ -1,0 +1,9 @@
+.requesterTask{
+    width: 960px;
+    height: fit-content;
+    margin: auto;
+    font-size: 25px;
+}
+.inputGroup{
+    margin-left: 20px;
+}
